@@ -1,4 +1,4 @@
-Welcome to your first challenge! In this course’s challenges, you’ll work on completing the HTML Essential Training reference site. You won’t be building the site from scratch, rather you’ll be completing various portions of the site in varying degrees of completion. The goal is to reinforce and put into practice what you’ve learned in this chapter.
+9Welcome to your first challenge! In this course’s challenges, you’ll work on completing the HTML Essential Training reference site. You won’t be building the site from scratch, rather you’ll be completing various portions of the site in varying degrees of completion. The goal is to reinforce and put into practice what you’ve learned in this chapter.
 
 For this challenge you’ll be planning and implementing a formatting strategy for the site. In the steps below I’ll list the tasks you need to perform, as well as the relevant files for each task.
 
@@ -20,7 +20,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 	     a.	Applies to: next.htm
 	     b.	In the file next.htm examine the four pieces of advice in the Learning Web Design section. Determine how to best emphasize the first line in each paragraph. Think about ways that you could isolate that line or emphasize it in a way that denotes its importance to the rest of the paragraph.
              c.	In the last advice paragraph (“break things”), display the quotes in italics. In the same paragraph, emphasize the last line “Always challenge yourself” so that it’s importance is indicated.
-	     d.	In the list of resources below the advice section, make sure all top-level list items appear in bold.
+	     d.	In the list of resources below the advice section, make sure all top-level li3st items appear in bold.
 			
 5.	Displaying special characters
 	     a.	Applies to: reference.htm
